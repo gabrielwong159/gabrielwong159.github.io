@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 103 103"
+	 style="enable-background:new 0 0 103 103;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#232E4A;}
+	.st2{clip-path:url(#SVGID_4_);}
+	.st3{clip-path:url(#SVGID_6_);}
+</style>
+<g id="surface839">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="2.5" y="1.5" width="21.9" height="23"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="g22" class="st0">
+			<path id="path24" class="st1" d="M24.3,13c0,6.2-4.9,11.3-10.9,11.3c-6,0-10.9-5.1-10.9-11.3c0-6.2,4.9-11.3,10.9-11.3
+				C19.4,1.7,24.3,6.8,24.3,13"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="2.5" y="39.5" width="21.9" height="24"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="g26" class="st2">
+			<path id="path28" class="st1" d="M24.3,51.4c0,6.2-4.9,11.3-10.9,11.3c-6,0-10.9-5.1-10.9-11.3c0-6.2,4.9-11.3,10.9-11.3
+				C19.4,40.2,24.3,45.2,24.3,51.4"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="2.5" y="78.5" width="21.9" height="23"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="g30" class="st3">
+			<path id="path32" class="st1" d="M24.3,89.9c0,6.2-4.9,11.3-10.9,11.3c-6,0-10.9-5.1-10.9-11.3s4.9-11.3,10.9-11.3
+				C19.4,78.6,24.3,83.7,24.3,89.9"/>
+		</g>
+	</g>
+	<path id="path34" class="st1" d="M62.4,51.4c0,6.2-4.9,11.3-10.9,11.3s-10.9-5.1-10.9-11.3c0-6.2,4.9-11.3,10.9-11.3
+		S62.4,45.2,62.4,51.4"/>
+	<path id="path36" class="st1" d="M62.4,13c0,6.2-4.9,11.3-10.9,11.3S40.5,19.2,40.5,13c0-6.2,4.9-11.3,10.9-11.3S62.4,6.8,62.4,13"
+		/>
+	<path id="path38" class="st1" d="M100.5,51.4c0,6.2-4.9,11.3-10.9,11.3s-10.9-5.1-10.9-11.3c0-6.2,4.9-11.3,10.9-11.3
+		S100.5,45.2,100.5,51.4"/>
+	<path id="path40" class="st1" d="M100.5,13c0,6.2-4.9,11.3-10.9,11.3S78.7,19.2,78.7,13c0-6.2,4.9-11.3,10.9-11.3
+		S100.5,6.8,100.5,13"/>
+	<path id="path42" class="st1" d="M100.5,89.9c0,6.2-4.9,11.3-10.9,11.3s-10.9-5.1-10.9-11.3s4.9-11.3,10.9-11.3
+		S100.5,83.7,100.5,89.9"/>
+	<path id="path44" class="st1" d="M62.4,89.9c0,6.2-4.9,11.3-10.9,11.3s-10.9-5.1-10.9-11.3s4.9-11.3,10.9-11.3S62.4,83.7,62.4,89.9
+		"/>
+</g>
+</svg>
